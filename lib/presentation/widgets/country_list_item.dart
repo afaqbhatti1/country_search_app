@@ -1,6 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:country_search_app/data/models/country_model.dart';
-import 'package:country_search_app/utils/widgets/country_detail_dialog.dart';
+import 'package:country_search_app/presentation/widgets/country_detail_dialog.dart';
 import 'package:flutter/material.dart';
 
 class CountryListItem extends StatelessWidget {

@@ -1,5 +1,5 @@
 import 'package:country_search_app/presentation/providers/country_provider.dart';
-import 'package:country_search_app/utils/widgets/country_list_item.dart';
+import 'package:country_search_app/presentation/widgets/country_list_item.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
